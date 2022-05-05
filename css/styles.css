@@ -33,7 +33,7 @@
   --bs-gray-700: #495057;
   --bs-gray-800: #343a40;
   --bs-gray-900: #212529;
-  --bs-primary: #bd5d38;
+  --bs-primary: #7a31be;
   --bs-secondary: #6c757d;
   --bs-success: #198754;
   --bs-info: #0dcaf0;
@@ -3033,7 +3033,7 @@ textarea.form-control-lg {
 .btn-primary {
   color: #000;
   background-color: #bd5d38;
-  border-color: #bd5d38;
+  border-color: #38bd9c;
 }
 .btn-primary:hover {
   color: #000;
